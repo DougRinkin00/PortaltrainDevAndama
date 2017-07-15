@@ -312,7 +312,7 @@ public:
         lblRemotePasswordError->setText(QString());
         lblStatus->setText(QApplication::translate("MainWindow", "Connecting...", 0));
         lblDesktop->setText(QApplication::translate("MainWindow", "TextLabel", 0));
-        menuAndama->setTitle(QApplication::translate("MainWindow", "Andama", 0));
+        menuAndama->setTitle(QApplication::translate("MainWindow", "Helper", 0));
     } // retranslateUi
 
 };
